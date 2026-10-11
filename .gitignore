@@ -1,0 +1,4 @@
+# Laid by Claude Code each time a plugin loads (its API types and a tsconfig base)
+.claude-plugin/types/
+node_modules/
+.DS_Store

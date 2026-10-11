@@ -1,0 +1,25 @@
+{
+  "name": "setup-code",
+  "description": "nadesh00's Claude Code mods: prompt enhancement, a live subagent panel with /boost, and a past-conversations picker",
+  "owner": {
+    "name": "nadesh00",
+    "url": "https://github.com/nadesh00"
+  },
+  "plugins": [
+    {
+      "name": "prompt-enhance",
+      "source": "./plugins/prompt-enhance",
+      "description": "End a prompt with \" ++\" to have it rewritten into a sharper prompt in the prompt bar instead of sent"
+    },
+    {
+      "name": "session-boost",
+      "source": "./plugins/session-boost",
+      "description": "/subagents: a live side panel of every subagent with cheaper-model suggestions; /boost: a watcher that launches read-only helper subagents for the turn in progress"
+    },
+    {
+      "name": "conversations",
+      "source": "./plugins/conversations",
+      "description": "/conversations: this project's past conversations by meaningful title; click one to resume it"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "session-boost",
+  "description": "A live side panel of every subagent, and /boost: a watcher subagent that follows the in-progress turn and launches read-only helper subagents to speed it up",
+  "author": {
+    "name": "nadesh00",
+    "url": "https://github.com/nadesh00"
+  },
+  "repository": "https://github.com/nadesh00/setup-code",
+  "types": "./types/index.d.ts"
+}

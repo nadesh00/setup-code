@@ -1,0 +1,10 @@
+{
+  "name": "conversations",
+  "description": "/conversations: a panel of this project's past Claude Code conversations by meaningful title; click one to resume it",
+  "author": {
+    "name": "nadesh00",
+    "url": "https://github.com/nadesh00"
+  },
+  "repository": "https://github.com/nadesh00/setup-code",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "prompt-enhance",
+  "description": "End a prompt with \" ++\" to have it rewritten into a sharper prompt in the prompt bar instead of sent",
+  "author": {
+    "name": "nadesh00",
+    "url": "https://github.com/nadesh00"
+  },
+  "repository": "https://github.com/nadesh00/setup-code"
+}
